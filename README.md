@@ -46,3 +46,4 @@ Tùy bài bạn chạy, project có thể tạo thêm các file sau trong cùng 
 
 ## Tác giả
 - Nguyễn Kiên Quốc — `K254141631`
+- Nguyễn Kiên Quốc — `K254141631`
